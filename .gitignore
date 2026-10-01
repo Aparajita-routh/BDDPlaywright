@@ -3,3 +3,5 @@ allure-results/
 allure-report/
 test-results/
 .features-gen/
+chrome-win64/
+*.zip
